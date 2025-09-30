@@ -64,7 +64,7 @@ The game begins in a city devastated by unforeseen circumstances. The previous m
 The game integrates strategy, ethics, and dynamic challenges to provide a unique experience. As the player balances the benefits and risks of AI, manages resources, and uncovers ethics, they pave the way to rebuilding a vibrant and sustainable city.
 
 ## Game Screenshots : 
-![WhatsApp Image 2025-01-26 at 19 38 28](https://github.com/user-attachments/assets/c3c2917e-b37c-49f6-b386-6058490a325e)
-![WhatsApp Image 2025-01-26 at 19 38 27](https://github.com/user-attachments/assets/5a92769c-18b2-4ab2-be97-91ddccef35b4)
-![WhatsApp Image 2025-01-26 at 19 38 29](https://github.com/user-attachments/assets/6d6793fe-4235-4e09-8e05-c0746da02a3e)
-![WhatsApp Image 2025-01-26 at 19 40 52](https://github.com/user-attachments/assets/f36331b5-fe81-4c1a-aa89-8bbe4f7656e2)
+![Opening](https://github.com/user-attachments/assets/9ba9b772-a473-48c6-b6fb-c7d19af8a23e)
+![Intro](https://github.com/user-attachments/assets/2db2f13f-d6d5-4b3b-a243-effe063bcfeb)
+![resume](https://github.com/user-attachments/assets/15b9d6f2-4546-4459-881d-d156fdcb5c07)
+![4types](https://github.com/user-attachments/assets/2842e556-bae6-4778-8ee8-59a172c9ea9a)
